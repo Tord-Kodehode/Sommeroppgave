@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(241, 237, 149);
+}
+
+#output {
+  color: blue;
+  font-size: xx-large;
+}
+
+#output2 {
+  color: red;
+  font-size: xx-large;
+}
+
+#output3 {
+  color: black;
+  font-size: xx-large;
+}
