@@ -1,0 +1,2 @@
+# Sommeroppgave
+Collatz conjecture
